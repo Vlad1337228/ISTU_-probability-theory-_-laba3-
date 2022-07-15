@@ -1,0 +1,7 @@
+D:\вуз\ТеорВероят\лаба 3\Laba3\Laba3\bin\Debug\Laba3.exe.config
+D:\вуз\ТеорВероят\лаба 3\Laba3\Laba3\bin\Debug\Laba3.exe
+D:\вуз\ТеорВероят\лаба 3\Laba3\Laba3\bin\Debug\Laba3.pdb
+D:\вуз\ТеорВероят\лаба 3\Laba3\Laba3\obj\Debug\Laba3.csprojAssemblyReference.cache
+D:\вуз\ТеорВероят\лаба 3\Laba3\Laba3\obj\Debug\Laba3.csproj.CoreCompileInputs.cache
+D:\вуз\ТеорВероят\лаба 3\Laba3\Laba3\obj\Debug\Laba3.exe
+D:\вуз\ТеорВероят\лаба 3\Laba3\Laba3\obj\Debug\Laba3.pdb
